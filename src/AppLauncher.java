@@ -6,9 +6,6 @@ public class AppLauncher {
             public void run() {
                 // Create a new instance of WeatherAppGui
                 new WeatherAppGui().setVisible(true);
- //               System.out.println(WeatherApp.getLocationData("Tokyo"));
-
-                // System.out.println(WeatherApp.getCurrentTime());
             }
         });
     }
