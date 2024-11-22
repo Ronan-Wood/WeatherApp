@@ -70,3 +70,10 @@ The **Weather App** is a Java-based desktop application that provides real-time 
    - **Humidity**: Displayed as a percentage.
    - **Wind Speed**: Displayed in mp/h.
    - **Dynamic Icons**: Reflect the current weather conditions.
+
+---
+## Downloads:
+1. Simple JSON Jar: https://code.google.com/archive/p/json-simple/downloads
+2. Weather API: https://open-meteo.com/en/docs#latitude=33.767&longitude=-118.1892
+3. Weather Icons: https://www.dropbox.com/scl/fi/wl5mfpt0fwyol14ku0jxu/weatherapp_images.rar?rlkey=oknkxq85slvx59yyw7iyogvm9&e=1&dl=0
+4. GeoLocation API: https://open-meteo.com/en/docs/geocoding-api
